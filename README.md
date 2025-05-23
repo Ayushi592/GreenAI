@@ -25,11 +25,11 @@ During the workshop, I contributed to the development of:
 
 GreenAI/
 │
-├── data/ # Environmental datasets
-├── notebooks/ # Jupyter Notebooks with analysis and model building
-├── visualizations/ # Graphs and insights
-├── model/ # ML models and scripts
-└── README.md # Project documentation
+├── data/  Environmental datasets
+├── notebooks/ Jupyter Notebooks with analysis and model building
+├── visualizations/  Graphs and insights
+├── model/  ML models and scripts
+└── README.md  Project documentation
 
 
 ## 🚀 Getting Started
@@ -40,10 +40,12 @@ To run this project locally:
    ```bash
    git clone https://github.com/Ayushi592/GreenAI.git
 
-2. Navigate to the project directory:  
+2. Navigate to the project directory:
+  ```bash
     cd GreenAI
    
-4. Install required packages:
+3. Install required packages:
+ ```bash
     pip install -r requirements.txt
 
-5. Open the notebooks or run scripts to explore the project.
+4. Open the notebooks or run scripts to explore the project.
